@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/russtand-test/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/russtand-test/static/js/main.843f4069.chunk.js",
+    "main.js.map": "/russtand-test/static/js/main.843f4069.chunk.js.map",
+    "runtime-main.js": "/russtand-test/static/js/runtime-main.77b65bfa.js",
+    "runtime-main.js.map": "/russtand-test/static/js/runtime-main.77b65bfa.js.map",
+    "static/js/2.1fd3f6c9.chunk.js": "/russtand-test/static/js/2.1fd3f6c9.chunk.js",
+    "static/js/2.1fd3f6c9.chunk.js.map": "/russtand-test/static/js/2.1fd3f6c9.chunk.js.map",
+    "static/js/3.38373461.chunk.js": "/russtand-test/static/js/3.38373461.chunk.js",
+    "static/js/3.38373461.chunk.js.map": "/russtand-test/static/js/3.38373461.chunk.js.map",
+    "index.html": "/russtand-test/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/russtand-test/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.1fd3f6c9.chunk.js.LICENSE.txt": "/russtand-test/static/js/2.1fd3f6c9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.77b65bfa.js",
+    "static/js/2.1fd3f6c9.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.843f4069.chunk.js"
+  ]
+}
