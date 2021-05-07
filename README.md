@@ -1,3 +1,3 @@
 тестовое задание по React. ссылка для проверки: 
 
-https://k-gnusarev.github.io/
+https://k-gnusarev.github.io/russtand-test
